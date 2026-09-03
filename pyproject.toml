@@ -20,6 +20,7 @@ dependencies = [
     "scikit-opt>=0.6.6",
     "statsmodels>=0.14.6",
     "opencv-python>=5.0.0.93",
+    "sympy>=1.14.0",
 ]
 
 [dependency-groups]
